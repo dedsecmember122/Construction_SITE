@@ -54,7 +54,7 @@ Issue: In poor lighting, dark shadows cast by the container rim were occasionall
 Clone the Repository:
 
 
-git clone https://github.com/dedsecmember1122/Construction_SITE.git
+git clone https://github.com/dedsecmember122/Construction_SITE.git
 cd concrete-classifier
 Install Dependencies: You will need Jupyter and Ultralytics installed.
 
